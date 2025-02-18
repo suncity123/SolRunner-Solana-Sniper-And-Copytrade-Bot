@@ -1,5 +1,3 @@
-![Banner](https://solrunner.bot/images/solrunner-text.png)
-
 ## SolRunner Solana Bot
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
